@@ -8,6 +8,6 @@
 
 	});
 
-	APP.UI = APP.UI || {};
-	APP.UI.Component = View;
+	APP.Objects = APP.Objects || {};
+	APP.Objects.Maze = View;
 })( this.APP );
