@@ -31,7 +31,7 @@ git pull git://github.com/construct-components/maze.git master
 
 2. Import Custom Element:
 ```html
-<link rel="import" href="components/construct.maze">
+<link rel="import" href="components/construct-maze">
 ```
 
 3. Start using it!
