@@ -12,7 +12,7 @@
 
 Using bower:
 ```
-bower install construct.maze
+bower install construct-maze
 ```
 
 Import from github
